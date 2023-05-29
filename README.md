@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Supuni Punarani</h1>
+<h1 align="center">Hi 👋, I'm Supuni Wannigama</h1>
 <h3 align="center">I'm following computer science degree at University of Kelaniya</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&pid=Api&P=0&h=180">
 
